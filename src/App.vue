@@ -13,6 +13,7 @@ export default {
 };
 </script>
 
+
 <style lang="scss">
 @import url("https://fonts.googleapis.com/css?family=Bangers|Permanent+Marker|Graduate:400,700");
 
